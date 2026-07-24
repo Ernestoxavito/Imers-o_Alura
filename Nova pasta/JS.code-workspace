@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../JS"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../../../xampp/htdocs/projectofinaldecurso-main"
+		},
+		{
+			"path": "../../../../../../xampp/htdocs/dashboardpitruca"
+		},
+		{
+			"path": "../../Curso_Python"
+		},
+		{
+			"path": "../turmaB"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Web completo_JS"
+	}
+}
